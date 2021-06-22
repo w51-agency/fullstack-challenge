@@ -21,7 +21,7 @@ Gostaríamos que dentro do escopo apresentado, por sua conta, você selecione qu
 
 Tempo para Execução: `Máximo de 4 horas`
 
-Material de Apoio: Arquivo `.psd` com o layout desktop e mobile na versão Windows ou MAC [baixar](https://drive.google.com/file/d/1VT-C9htCpR4wJU_zXLq-2wp8XRBCsMAX/view?usp=sharing).
+Material de Apoio: Arquivo `.psd` com o layout desktop e mobile na versão Windows ou MAC [baixar](https://drive.google.com/file/d/15q_q8q0-OeVxApRXAJKvWHjaLIjL2fXU/view?usp=sharing).
 
 ![layout-mobile](utils/screen-mobile.jpeg)
 ![layout-desktop](utils/screen.jpeg)
